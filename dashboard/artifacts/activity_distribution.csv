@@ -1,0 +1,22 @@
+dataset,entity_type,bucket,count
+MovieLens 20M,user,21-50,1479
+MovieLens 20M,user,51+,3521
+MovieLens 20M,item,21-50,1155
+MovieLens 20M,item,51+,2045
+Google Local South Carolina,user,11-20,2058
+Google Local South Carolina,user,21-50,2206
+Google Local South Carolina,user,4-5,17
+Google Local South Carolina,user,51+,418
+Google Local South Carolina,user,6-10,281
+Google Local South Carolina,item,21-50,2536
+Google Local South Carolina,item,51+,664
+Goodreads Fantasy 10K,user,11-20,24
+Goodreads Fantasy 10K,user,21-50,19
+Goodreads Fantasy 10K,user,4-5,15
+Goodreads Fantasy 10K,user,51+,1
+Goodreads Fantasy 10K,user,6-10,40
+Goodreads Fantasy 10K,item,1,2
+Goodreads Fantasy 10K,item,11-20,12
+Goodreads Fantasy 10K,item,2-3,131
+Goodreads Fantasy 10K,item,4-5,69
+Goodreads Fantasy 10K,item,6-10,67

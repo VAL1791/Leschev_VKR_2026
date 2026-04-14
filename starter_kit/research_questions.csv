@@ -1,0 +1,6 @@
+id,question,evidence,status
+RQ1,Какие baseline-модели задают честную нижнюю и среднюю планку качества на разных доменах рекомендательных данных?,Leaderboard по датасетам + quality vs cost + единый temporal protocol,done
+RQ2,"Когда сильный shallow collaborative filtering уже достаточен, а когда нужно идти в content-aware и hybrid-подход?",Сравнение EASE vs TFIDF_Content vs HybridFeatureRerank по MovieLens / Google Local / Goodreads,in_progress
+RQ3,Какой вклад дают engineered features в hybrid rerank поверх готовых candidate generators?,Ablation без content и без collaborative сигналов + feature importance + sandbox explanations,in_progress
+RQ4,Насколько устойчивы выводы по пользовательским и товарным сегментам а не только по среднему leaderboard?,"Cold users / frequent users, RFM heatmap, long-tail and cannibalization slices",in_progress
+RQ5,Стоит ли sequential-модели включать в основную линию ВКР или достаточно одного phase-2 reference эксперимента?,Статусы planned/not_applicable в registry + один selective sequential baseline,planned

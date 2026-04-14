@@ -1,0 +1,40 @@
+dataset,item_share_pct,interaction_share_pct
+MovieLens 20M,1,12.6
+MovieLens 20M,2,20.33
+MovieLens 20M,5,35.46
+MovieLens 20M,10,51.0
+MovieLens 20M,20,68.17
+MovieLens 20M,30,78.41
+MovieLens 20M,40,85.13
+MovieLens 20M,50,89.78
+MovieLens 20M,60,93.05
+MovieLens 20M,70,95.54
+MovieLens 20M,80,97.46
+MovieLens 20M,90,98.98
+MovieLens 20M,100,100.0
+Google Local South Carolina,1,4.37
+Google Local South Carolina,2,7.45
+Google Local South Carolina,5,14.73
+Google Local South Carolina,10,24.15
+Google Local South Carolina,20,38.73
+Google Local South Carolina,30,50.2
+Google Local South Carolina,40,59.92
+Google Local South Carolina,50,68.48
+Google Local South Carolina,60,76.18
+Google Local South Carolina,70,83.19
+Google Local South Carolina,80,89.58
+Google Local South Carolina,90,95.31
+Google Local South Carolina,100,100.0
+Goodreads Fantasy 10K,1,3.61
+Goodreads Fantasy 10K,2,6.58
+Goodreads Fantasy 10K,5,14.12
+Goodreads Fantasy 10K,10,24.1
+Goodreads Fantasy 10K,20,40.13
+Goodreads Fantasy 10K,30,52.12
+Goodreads Fantasy 10K,40,62.21
+Goodreads Fantasy 10K,50,71.13
+Goodreads Fantasy 10K,60,80.04
+Goodreads Fantasy 10K,70,86.41
+Goodreads Fantasy 10K,80,92.36
+Goodreads Fantasy 10K,90,97.03
+Goodreads Fantasy 10K,100,100.0

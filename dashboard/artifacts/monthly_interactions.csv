@@ -1,0 +1,461 @@
+dataset,month,interactions,active_users,active_items
+MovieLens 20M,1996-02,49,3,41
+MovieLens 20M,1996-03,255,7,135
+MovieLens 20M,1996-04,988,31,204
+MovieLens 20M,1996-05,3046,77,340
+MovieLens 20M,1996-06,5252,121,379
+MovieLens 20M,1996-07,4405,118,360
+MovieLens 20M,1996-08,3528,107,350
+MovieLens 20M,1996-09,2875,92,399
+MovieLens 20M,1996-10,4295,119,551
+MovieLens 20M,1996-11,3637,97,622
+MovieLens 20M,1996-12,3301,97,633
+MovieLens 20M,1997-01,2877,87,649
+MovieLens 20M,1997-02,1731,67,566
+MovieLens 20M,1997-03,2228,77,614
+MovieLens 20M,1997-04,1944,69,647
+MovieLens 20M,1997-05,2775,79,656
+MovieLens 20M,1997-06,1668,56,595
+MovieLens 20M,1997-07,1143,53,450
+MovieLens 20M,1997-09,641,12,358
+MovieLens 20M,1997-10,601,12,373
+MovieLens 20M,1997-11,1319,27,518
+MovieLens 20M,1997-12,699,14,403
+MovieLens 20M,1998-01,836,21,449
+MovieLens 20M,1998-02,626,17,414
+MovieLens 20M,1998-03,470,14,325
+MovieLens 20M,1998-04,326,12,242
+MovieLens 20M,1998-05,379,43,267
+MovieLens 20M,1998-06,218,14,166
+MovieLens 20M,1998-07,3275,46,858
+MovieLens 20M,1998-08,775,27,480
+MovieLens 20M,1998-09,663,16,475
+MovieLens 20M,1998-10,339,12,250
+MovieLens 20M,1998-11,796,17,473
+MovieLens 20M,1998-12,939,18,547
+MovieLens 20M,1999-01,1813,21,821
+MovieLens 20M,1999-02,1031,14,624
+MovieLens 20M,1999-03,173,10,162
+MovieLens 20M,1999-04,473,15,354
+MovieLens 20M,1999-05,393,14,288
+MovieLens 20M,1999-06,383,16,287
+MovieLens 20M,1999-07,257,9,225
+MovieLens 20M,1999-08,522,16,374
+MovieLens 20M,1999-09,1336,37,532
+MovieLens 20M,1999-10,11687,166,1230
+MovieLens 20M,1999-11,6740,134,1223
+MovieLens 20M,1999-12,15470,206,1488
+MovieLens 20M,2000-01,5229,142,1258
+MovieLens 20M,2000-02,4696,123,1253
+MovieLens 20M,2000-03,4315,108,1199
+MovieLens 20M,2000-04,5620,117,1294
+MovieLens 20M,2000-05,3411,94,1199
+MovieLens 20M,2000-06,3369,96,1192
+MovieLens 20M,2000-07,3090,106,1099
+MovieLens 20M,2000-08,6977,131,1393
+MovieLens 20M,2000-09,3012,83,1145
+MovieLens 20M,2000-10,2117,79,1015
+MovieLens 20M,2000-11,12384,167,1711
+MovieLens 20M,2000-12,5722,132,1447
+MovieLens 20M,2001-01,5025,152,1440
+MovieLens 20M,2001-02,2718,112,1128
+MovieLens 20M,2001-03,2741,100,1148
+MovieLens 20M,2001-04,1623,91,836
+MovieLens 20M,2001-05,1605,94,890
+MovieLens 20M,2001-06,5183,129,1423
+MovieLens 20M,2001-07,4903,131,1412
+MovieLens 20M,2001-08,3600,117,1301
+MovieLens 20M,2001-09,3298,117,1242
+MovieLens 20M,2001-10,2272,89,1050
+MovieLens 20M,2001-11,4327,117,1483
+MovieLens 20M,2001-12,3806,112,1380
+MovieLens 20M,2002-01,4615,138,1459
+MovieLens 20M,2002-02,2581,108,1203
+MovieLens 20M,2002-03,2624,100,1210
+MovieLens 20M,2002-04,2721,107,1261
+MovieLens 20M,2002-05,2672,98,1178
+MovieLens 20M,2002-06,1595,86,903
+MovieLens 20M,2002-07,1328,90,801
+MovieLens 20M,2002-08,1990,106,1009
+MovieLens 20M,2002-09,2111,90,1083
+MovieLens 20M,2002-10,2279,95,1101
+MovieLens 20M,2002-11,3599,98,1409
+MovieLens 20M,2002-12,4031,110,1558
+MovieLens 20M,2003-01,2976,130,1194
+MovieLens 20M,2003-02,3250,107,1350
+MovieLens 20M,2003-03,2609,115,1256
+MovieLens 20M,2003-04,1944,99,939
+MovieLens 20M,2003-05,1939,101,910
+MovieLens 20M,2003-06,1573,100,858
+MovieLens 20M,2003-07,3153,122,1292
+MovieLens 20M,2003-08,2233,95,1080
+MovieLens 20M,2003-09,1659,105,849
+MovieLens 20M,2003-10,1975,105,956
+MovieLens 20M,2003-11,2364,108,1183
+MovieLens 20M,2003-12,2630,117,1175
+MovieLens 20M,2004-01,2725,139,1164
+MovieLens 20M,2004-02,4045,153,1472
+MovieLens 20M,2004-03,3309,122,1283
+MovieLens 20M,2004-04,1912,113,978
+MovieLens 20M,2004-05,2427,117,1055
+MovieLens 20M,2004-06,3321,117,1271
+MovieLens 20M,2004-07,1684,120,770
+MovieLens 20M,2004-08,2008,111,945
+MovieLens 20M,2004-09,2922,102,1154
+MovieLens 20M,2004-10,2264,104,1034
+MovieLens 20M,2004-11,2107,126,1008
+MovieLens 20M,2004-12,1649,112,788
+MovieLens 20M,2005-01,3207,131,1254
+MovieLens 20M,2005-02,3192,125,1177
+MovieLens 20M,2005-03,6950,177,1595
+MovieLens 20M,2005-04,5194,161,1507
+MovieLens 20M,2005-05,3790,155,1252
+MovieLens 20M,2005-06,3240,145,1352
+MovieLens 20M,2005-07,2482,143,1096
+MovieLens 20M,2005-08,2465,112,1090
+MovieLens 20M,2005-09,3201,111,1263
+MovieLens 20M,2005-10,2624,132,1140
+MovieLens 20M,2005-11,3498,128,1259
+MovieLens 20M,2005-12,2612,140,1087
+MovieLens 20M,2006-01,3148,140,1271
+MovieLens 20M,2006-02,2056,124,932
+MovieLens 20M,2006-03,2268,125,1060
+MovieLens 20M,2006-04,2349,109,1015
+MovieLens 20M,2006-05,2241,112,1082
+MovieLens 20M,2006-06,1746,101,877
+MovieLens 20M,2006-07,2782,120,1191
+MovieLens 20M,2006-08,1349,110,709
+MovieLens 20M,2006-09,2647,120,1046
+MovieLens 20M,2006-10,3156,134,1144
+MovieLens 20M,2006-11,2170,116,1112
+MovieLens 20M,2006-12,2556,127,1071
+MovieLens 20M,2007-01,3620,138,1202
+MovieLens 20M,2007-02,3455,139,1201
+MovieLens 20M,2007-03,2771,128,1140
+MovieLens 20M,2007-04,2290,116,1047
+MovieLens 20M,2007-05,2452,121,997
+MovieLens 20M,2007-06,2459,117,1066
+MovieLens 20M,2007-07,2318,112,995
+MovieLens 20M,2007-08,1121,109,643
+MovieLens 20M,2007-09,1128,97,620
+MovieLens 20M,2007-10,2051,103,979
+MovieLens 20M,2007-11,2474,113,1177
+MovieLens 20M,2007-12,3286,114,1152
+MovieLens 20M,2008-01,3245,146,1195
+MovieLens 20M,2008-02,2219,126,995
+MovieLens 20M,2008-03,2149,124,975
+MovieLens 20M,2008-04,1397,86,631
+MovieLens 20M,2008-05,1691,103,866
+MovieLens 20M,2008-06,1705,95,822
+MovieLens 20M,2008-07,2402,110,1059
+MovieLens 20M,2008-08,2539,132,1050
+MovieLens 20M,2008-09,2325,108,955
+MovieLens 20M,2008-10,2866,114,1084
+MovieLens 20M,2008-11,3545,123,1318
+MovieLens 20M,2008-12,2495,103,1070
+MovieLens 20M,2009-01,2816,138,1172
+MovieLens 20M,2009-02,2761,112,1193
+MovieLens 20M,2009-03,3169,123,1266
+MovieLens 20M,2009-04,2350,103,1070
+MovieLens 20M,2009-05,2033,103,920
+MovieLens 20M,2009-06,1963,106,963
+MovieLens 20M,2009-07,2333,108,1046
+MovieLens 20M,2009-08,2448,103,1349
+MovieLens 20M,2009-09,1239,99,663
+MovieLens 20M,2009-10,1820,89,1058
+MovieLens 20M,2009-11,1663,88,822
+MovieLens 20M,2009-12,1433,106,725
+MovieLens 20M,2010-01,1537,123,783
+MovieLens 20M,2010-02,1522,96,813
+MovieLens 20M,2010-03,1526,101,751
+MovieLens 20M,2010-04,2652,98,1084
+MovieLens 20M,2010-05,1951,102,997
+MovieLens 20M,2010-06,1907,88,981
+MovieLens 20M,2010-07,1503,114,770
+MovieLens 20M,2010-08,1903,100,825
+MovieLens 20M,2010-09,3308,110,1353
+MovieLens 20M,2010-10,1717,99,887
+MovieLens 20M,2010-11,1977,115,1022
+MovieLens 20M,2010-12,1462,120,733
+MovieLens 20M,2011-01,1787,115,863
+MovieLens 20M,2011-02,856,100,520
+MovieLens 20M,2011-03,1973,108,1017
+MovieLens 20M,2011-04,2199,99,1073
+MovieLens 20M,2011-05,2113,98,1014
+MovieLens 20M,2011-06,1133,95,627
+MovieLens 20M,2011-07,1845,91,918
+MovieLens 20M,2011-08,2166,103,1043
+MovieLens 20M,2011-09,1249,93,732
+MovieLens 20M,2011-10,1360,95,750
+MovieLens 20M,2011-11,1343,88,710
+MovieLens 20M,2011-12,1013,95,550
+MovieLens 20M,2012-01,1786,87,1047
+MovieLens 20M,2012-02,1566,100,859
+MovieLens 20M,2012-03,1489,94,867
+MovieLens 20M,2012-04,1296,89,697
+MovieLens 20M,2012-05,2993,94,1141
+MovieLens 20M,2012-06,1795,83,964
+MovieLens 20M,2012-07,734,82,471
+MovieLens 20M,2012-08,1235,66,703
+MovieLens 20M,2012-09,1943,80,979
+MovieLens 20M,2012-10,1348,76,734
+MovieLens 20M,2012-11,1951,82,1061
+MovieLens 20M,2012-12,2257,94,1038
+MovieLens 20M,2013-01,1460,99,820
+MovieLens 20M,2013-02,1929,94,898
+MovieLens 20M,2013-03,1684,87,924
+MovieLens 20M,2013-04,1183,89,727
+MovieLens 20M,2013-05,1071,82,644
+MovieLens 20M,2013-06,1576,82,775
+MovieLens 20M,2013-07,1821,92,893
+MovieLens 20M,2013-08,947,74,656
+MovieLens 20M,2013-09,2215,85,938
+MovieLens 20M,2013-10,1254,72,689
+MovieLens 20M,2013-11,1840,77,1021
+MovieLens 20M,2013-12,1058,84,670
+MovieLens 20M,2014-01,1134,93,683
+MovieLens 20M,2014-02,1027,74,647
+MovieLens 20M,2014-03,1124,64,639
+MovieLens 20M,2014-04,645,68,451
+MovieLens 20M,2014-05,876,80,529
+MovieLens 20M,2014-06,665,54,485
+MovieLens 20M,2014-07,1148,59,658
+MovieLens 20M,2014-08,1742,86,921
+MovieLens 20M,2014-09,453,51,351
+MovieLens 20M,2014-10,1373,65,787
+MovieLens 20M,2014-11,1719,100,746
+MovieLens 20M,2014-12,1464,96,810
+MovieLens 20M,2015-01,2582,105,1037
+MovieLens 20M,2015-02,1662,85,867
+MovieLens 20M,2015-03,2297,97,1028
+Google Local South Carolina,2010-05,1,1,1
+Google Local South Carolina,2010-11,9,2,9
+Google Local South Carolina,2010-12,8,3,8
+Google Local South Carolina,2011-01,2,1,2
+Google Local South Carolina,2011-04,4,3,4
+Google Local South Carolina,2011-05,8,4,8
+Google Local South Carolina,2011-06,5,5,5
+Google Local South Carolina,2011-07,2,2,2
+Google Local South Carolina,2011-08,4,3,4
+Google Local South Carolina,2011-09,14,4,14
+Google Local South Carolina,2011-10,1,1,1
+Google Local South Carolina,2011-11,7,4,7
+Google Local South Carolina,2011-12,1,1,1
+Google Local South Carolina,2012-01,3,2,3
+Google Local South Carolina,2012-03,7,4,7
+Google Local South Carolina,2012-05,4,3,4
+Google Local South Carolina,2012-06,4,2,4
+Google Local South Carolina,2012-07,8,7,8
+Google Local South Carolina,2012-08,3,3,3
+Google Local South Carolina,2012-09,2,2,2
+Google Local South Carolina,2012-10,3,2,3
+Google Local South Carolina,2012-11,1,1,1
+Google Local South Carolina,2012-12,3,2,2
+Google Local South Carolina,2013-01,5,2,5
+Google Local South Carolina,2013-02,3,3,3
+Google Local South Carolina,2013-03,3,3,3
+Google Local South Carolina,2013-04,3,2,3
+Google Local South Carolina,2013-05,7,5,7
+Google Local South Carolina,2013-06,5,5,5
+Google Local South Carolina,2013-07,8,6,8
+Google Local South Carolina,2013-08,17,4,17
+Google Local South Carolina,2013-09,7,4,7
+Google Local South Carolina,2013-10,2,2,2
+Google Local South Carolina,2013-11,5,5,5
+Google Local South Carolina,2013-12,6,6,6
+Google Local South Carolina,2014-01,2,2,2
+Google Local South Carolina,2014-02,3,3,3
+Google Local South Carolina,2014-03,2,2,2
+Google Local South Carolina,2014-04,1,1,1
+Google Local South Carolina,2014-05,8,7,8
+Google Local South Carolina,2014-06,3,2,3
+Google Local South Carolina,2014-07,15,7,15
+Google Local South Carolina,2014-08,11,7,11
+Google Local South Carolina,2014-09,8,6,8
+Google Local South Carolina,2014-10,8,8,8
+Google Local South Carolina,2014-11,5,5,5
+Google Local South Carolina,2014-12,4,4,4
+Google Local South Carolina,2015-01,6,6,6
+Google Local South Carolina,2015-02,53,11,53
+Google Local South Carolina,2015-03,3,3,3
+Google Local South Carolina,2015-04,11,9,11
+Google Local South Carolina,2015-05,7,5,7
+Google Local South Carolina,2015-06,12,9,12
+Google Local South Carolina,2015-07,28,11,28
+Google Local South Carolina,2015-08,5,4,5
+Google Local South Carolina,2015-09,16,11,16
+Google Local South Carolina,2015-10,11,9,11
+Google Local South Carolina,2015-11,77,21,74
+Google Local South Carolina,2015-12,22,12,21
+Google Local South Carolina,2016-01,53,22,50
+Google Local South Carolina,2016-02,55,29,54
+Google Local South Carolina,2016-03,130,47,128
+Google Local South Carolina,2016-04,113,47,112
+Google Local South Carolina,2016-05,199,60,187
+Google Local South Carolina,2016-06,250,84,227
+Google Local South Carolina,2016-07,381,137,344
+Google Local South Carolina,2016-08,452,126,401
+Google Local South Carolina,2016-09,361,132,330
+Google Local South Carolina,2016-10,362,149,323
+Google Local South Carolina,2016-11,698,240,584
+Google Local South Carolina,2016-12,635,231,537
+Google Local South Carolina,2017-01,715,276,584
+Google Local South Carolina,2017-02,784,259,638
+Google Local South Carolina,2017-03,874,307,702
+Google Local South Carolina,2017-04,827,308,649
+Google Local South Carolina,2017-05,1017,385,773
+Google Local South Carolina,2017-06,1521,606,1073
+Google Local South Carolina,2017-07,1785,687,1220
+Google Local South Carolina,2017-08,1618,633,1134
+Google Local South Carolina,2017-09,1829,637,1189
+Google Local South Carolina,2017-10,1519,632,1049
+Google Local South Carolina,2017-11,1653,658,1119
+Google Local South Carolina,2017-12,2397,790,1425
+Google Local South Carolina,2018-01,2512,841,1489
+Google Local South Carolina,2018-02,2438,892,1511
+Google Local South Carolina,2018-03,2618,960,1577
+Google Local South Carolina,2018-04,2409,882,1525
+Google Local South Carolina,2018-05,3092,1021,1809
+Google Local South Carolina,2018-06,3207,1053,1828
+Google Local South Carolina,2018-07,3564,1205,1955
+Google Local South Carolina,2018-08,3371,1239,1907
+Google Local South Carolina,2018-09,2712,1082,1671
+Google Local South Carolina,2018-10,2982,1122,1754
+Google Local South Carolina,2018-11,3004,1188,1803
+Google Local South Carolina,2018-12,3596,1302,1971
+Google Local South Carolina,2019-01,3568,1268,1973
+Google Local South Carolina,2019-02,3253,1199,1896
+Google Local South Carolina,2019-03,3932,1375,2122
+Google Local South Carolina,2019-04,3833,1393,2036
+Google Local South Carolina,2019-05,3723,1384,2029
+Google Local South Carolina,2019-06,4097,1421,2152
+Google Local South Carolina,2019-07,4212,1389,2136
+Google Local South Carolina,2019-08,4221,1424,2156
+Google Local South Carolina,2019-09,3596,1233,1996
+Google Local South Carolina,2019-10,3505,1208,1962
+Google Local South Carolina,2019-11,2800,1160,1754
+Google Local South Carolina,2019-12,3057,1089,1782
+Google Local South Carolina,2020-01,3484,1215,1933
+Google Local South Carolina,2020-02,3357,1218,1889
+Google Local South Carolina,2020-03,1717,744,1257
+Google Local South Carolina,2020-04,156,58,152
+Google Local South Carolina,2020-05,1177,448,925
+Google Local South Carolina,2020-06,1769,794,1193
+Google Local South Carolina,2020-07,2096,864,1384
+Google Local South Carolina,2020-08,2064,897,1380
+Google Local South Carolina,2020-09,1908,876,1311
+Google Local South Carolina,2020-10,1881,869,1299
+Google Local South Carolina,2020-11,1824,805,1277
+Google Local South Carolina,2020-12,2027,887,1385
+Google Local South Carolina,2021-01,1909,827,1305
+Google Local South Carolina,2021-02,1527,740,1101
+Google Local South Carolina,2021-03,2186,917,1455
+Google Local South Carolina,2021-04,1673,814,1218
+Google Local South Carolina,2021-05,261,216,202
+Google Local South Carolina,2021-06,43,43,37
+Goodreads Fantasy 10K,2008-03,3,2,3
+Goodreads Fantasy 10K,2008-04,2,1,2
+Goodreads Fantasy 10K,2008-05,1,1,1
+Goodreads Fantasy 10K,2008-06,3,1,3
+Goodreads Fantasy 10K,2008-07,1,1,1
+Goodreads Fantasy 10K,2008-08,2,1,2
+Goodreads Fantasy 10K,2008-11,13,3,13
+Goodreads Fantasy 10K,2008-12,1,1,1
+Goodreads Fantasy 10K,2009-02,2,2,2
+Goodreads Fantasy 10K,2009-03,4,2,4
+Goodreads Fantasy 10K,2009-04,2,2,2
+Goodreads Fantasy 10K,2009-05,2,2,2
+Goodreads Fantasy 10K,2009-06,3,3,3
+Goodreads Fantasy 10K,2009-08,1,1,1
+Goodreads Fantasy 10K,2009-09,1,1,1
+Goodreads Fantasy 10K,2009-11,1,1,1
+Goodreads Fantasy 10K,2009-12,2,2,2
+Goodreads Fantasy 10K,2010-02,1,1,1
+Goodreads Fantasy 10K,2010-03,3,3,3
+Goodreads Fantasy 10K,2010-04,2,1,2
+Goodreads Fantasy 10K,2010-05,3,3,3
+Goodreads Fantasy 10K,2010-06,1,1,1
+Goodreads Fantasy 10K,2010-07,5,4,5
+Goodreads Fantasy 10K,2010-08,6,4,6
+Goodreads Fantasy 10K,2010-09,2,2,2
+Goodreads Fantasy 10K,2010-10,6,3,6
+Goodreads Fantasy 10K,2010-11,5,1,5
+Goodreads Fantasy 10K,2010-12,5,4,5
+Goodreads Fantasy 10K,2011-02,3,2,3
+Goodreads Fantasy 10K,2011-03,4,4,4
+Goodreads Fantasy 10K,2011-04,4,4,4
+Goodreads Fantasy 10K,2011-05,3,3,3
+Goodreads Fantasy 10K,2011-06,4,4,4
+Goodreads Fantasy 10K,2011-07,6,5,6
+Goodreads Fantasy 10K,2011-08,4,4,4
+Goodreads Fantasy 10K,2011-09,2,2,2
+Goodreads Fantasy 10K,2011-10,6,4,6
+Goodreads Fantasy 10K,2011-12,4,3,3
+Goodreads Fantasy 10K,2012-01,2,2,2
+Goodreads Fantasy 10K,2012-02,1,1,1
+Goodreads Fantasy 10K,2012-04,2,2,2
+Goodreads Fantasy 10K,2012-06,33,18,28
+Goodreads Fantasy 10K,2012-07,12,6,12
+Goodreads Fantasy 10K,2012-08,10,8,10
+Goodreads Fantasy 10K,2012-09,8,4,8
+Goodreads Fantasy 10K,2012-10,11,9,11
+Goodreads Fantasy 10K,2012-11,17,10,15
+Goodreads Fantasy 10K,2012-12,14,10,11
+Goodreads Fantasy 10K,2013-01,22,13,18
+Goodreads Fantasy 10K,2013-02,19,12,19
+Goodreads Fantasy 10K,2013-03,22,14,19
+Goodreads Fantasy 10K,2013-04,17,10,16
+Goodreads Fantasy 10K,2013-05,14,9,14
+Goodreads Fantasy 10K,2013-06,17,10,16
+Goodreads Fantasy 10K,2013-07,31,14,27
+Goodreads Fantasy 10K,2013-08,20,16,20
+Goodreads Fantasy 10K,2013-09,17,15,17
+Goodreads Fantasy 10K,2013-10,7,7,6
+Goodreads Fantasy 10K,2013-11,9,5,9
+Goodreads Fantasy 10K,2013-12,16,12,16
+Goodreads Fantasy 10K,2014-01,8,7,8
+Goodreads Fantasy 10K,2014-02,24,13,22
+Goodreads Fantasy 10K,2014-03,8,8,7
+Goodreads Fantasy 10K,2014-04,15,13,10
+Goodreads Fantasy 10K,2014-05,10,10,9
+Goodreads Fantasy 10K,2014-06,10,10,9
+Goodreads Fantasy 10K,2014-07,12,8,11
+Goodreads Fantasy 10K,2014-08,11,10,8
+Goodreads Fantasy 10K,2014-09,33,7,31
+Goodreads Fantasy 10K,2014-10,22,12,16
+Goodreads Fantasy 10K,2014-11,18,12,17
+Goodreads Fantasy 10K,2014-12,14,4,14
+Goodreads Fantasy 10K,2015-01,13,9,13
+Goodreads Fantasy 10K,2015-02,18,10,17
+Goodreads Fantasy 10K,2015-03,15,11,13
+Goodreads Fantasy 10K,2015-04,12,9,10
+Goodreads Fantasy 10K,2015-05,9,8,7
+Goodreads Fantasy 10K,2015-06,12,8,12
+Goodreads Fantasy 10K,2015-07,9,8,8
+Goodreads Fantasy 10K,2015-08,10,8,8
+Goodreads Fantasy 10K,2015-09,23,16,20
+Goodreads Fantasy 10K,2015-10,8,6,7
+Goodreads Fantasy 10K,2015-11,17,12,13
+Goodreads Fantasy 10K,2015-12,23,15,19
+Goodreads Fantasy 10K,2016-01,16,13,14
+Goodreads Fantasy 10K,2016-02,21,12,19
+Goodreads Fantasy 10K,2016-03,18,11,17
+Goodreads Fantasy 10K,2016-04,43,10,42
+Goodreads Fantasy 10K,2016-05,16,12,15
+Goodreads Fantasy 10K,2016-06,17,9,16
+Goodreads Fantasy 10K,2016-07,21,15,18
+Goodreads Fantasy 10K,2016-08,27,14,25
+Goodreads Fantasy 10K,2016-09,25,17,21
+Goodreads Fantasy 10K,2016-10,45,15,38
+Goodreads Fantasy 10K,2016-11,19,11,19
+Goodreads Fantasy 10K,2016-12,25,13,22
+Goodreads Fantasy 10K,2017-01,18,12,16
+Goodreads Fantasy 10K,2017-02,27,8,27
+Goodreads Fantasy 10K,2017-03,30,15,25
+Goodreads Fantasy 10K,2017-04,20,14,18
+Goodreads Fantasy 10K,2017-05,25,17,19
+Goodreads Fantasy 10K,2017-06,24,9,22
+Goodreads Fantasy 10K,2017-07,16,10,16
+Goodreads Fantasy 10K,2017-08,18,8,18
+Goodreads Fantasy 10K,2017-09,13,9,13
+Goodreads Fantasy 10K,2017-10,9,6,9

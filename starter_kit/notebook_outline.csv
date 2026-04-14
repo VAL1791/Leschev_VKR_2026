@@ -1,0 +1,33 @@
+order_display,cell_index,type,title
+1,0,section,0. Thesis framing and scope
+1.1,0,subsection,Почему основная история строится вокруг strong baselines и hybrid rerank
+2,2,section,1. Unified data contract for three datasets
+2.1,2,subsection,MovieLens 20M / Google Local South Carolina / Goodreads Fantasy 10K
+3,5,section,2. Quality gates and research subsets
+3.1,5,subsection,"k-core filtering, user sampling, reproducibility limits"
+4,9,section,3. EDA and long-tail diagnostics
+4.1,9,subsection,"Monthly activity, sparsity, user/item activity buckets"
+5,13,section,4. Temporal split 75 / 25 and evaluation protocol
+5.1,13,subsection,"Почему main benchmark = exc, topk=10, NDCG@10"
+6,17,section,5. Strong baseline stack
+6.1,17,subsection,Popularity
+6.2,18,subsection,TruncatedSVD
+6.3,19,subsection,EASE
+6.4,20,subsection,TFIDF_Content
+7,24,section,6. HybridFeatureRerank as main proposed layer
+7.1,24,subsection,Candidate generation and rerank logic
+7.2,25,subsection,"Feature engineering: popularity, novelty, freshness, tags, category, year, price, richness"
+7.3,26,subsection,Explainability fields for sandbox and defense
+8,30,section,7. Unified evaluation function for exc. / inc. and top-K grid
+9,34,section,8. Main leaderboard tables
+10,38,section,9. Robustness and business slices
+10.1,38,subsection,Cold users / frequent users
+10.2,39,subsection,RFM × quality and revenue mix
+10.3,40,subsection,Cannibalization and long-tail behavior
+11,44,section,10. Hybrid ablation study
+11.1,44,subsection,Without content features
+11.2,45,subsection,Without collaborative features
+12,49,section,11. Selective phase-2 extension
+12.1,49,subsection,One sequential baseline only: SASRec or GRU4Rec
+12.2,50,subsection,Why NCF and RBM stay secondary
+13,54,section,12. Final thesis takeaways and defense-ready conclusions

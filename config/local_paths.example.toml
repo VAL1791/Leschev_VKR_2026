@@ -1,0 +1,9 @@
+[paths]
+raw_data_root = "data/raw"
+dashboard_artifacts_root = "dashboard/artifacts"
+notebook_root = "."
+
+[datasets]
+MovieLens 20M = "data/raw/movielens-20m"
+Instacart = "data/raw/instacart"
+Online Retail = "data/raw/online-retail"

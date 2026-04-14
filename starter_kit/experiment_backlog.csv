@@ -1,0 +1,17 @@
+experiment_id,model,dataset,type,goal,status
+E1,Popularity,MovieLens 20M,baseline,Reference lower bound and sanity check on dense collaborative data,done
+E2,TruncatedSVD,MovieLens 20M,baseline,Compact latent factor benchmark on the same protocol,done
+E3,EASE,MovieLens 20M,baseline,Strong shallow CF benchmark for the main leaderboard,done
+E4,TFIDF_Content,Google Local South Carolina,content,Show value of metadata and text retrieval on local-commerce data,done
+E5,SequentialTransition,Google Local South Carolina,sequential,Order-aware lightweight sequential baseline on local-commerce data,done
+E6,HybridFeatureRerank,Google Local South Carolina,hybrid,Main proposed model with collaborative and profile-alignment features,done
+E7,EASE,Goodreads Fantasy 10K,baseline,Explainable linear CF baseline on books domain,done
+E8,HybridFeatureRerank,Goodreads Fantasy 10K,hybrid,"Main proposed model with shelves, text and rerank features",done
+E9,SequentialTransition,Goodreads Fantasy 10K,sequential,Order-aware baseline to close the sequential scope on book interactions,done
+E10,Ablation: Hybrid without content features,Google Local South Carolina,ablation,Quantify the value of text and metadata features in the reranker,done
+E11,Ablation: Hybrid without collaborative features,Goodreads Fantasy 10K,ablation,Show what the hybrid loses without collaborative candidate generators,done
+E12,Significance and confidence checks,All datasets,statistics,Paired significance and confidence intervals for the main benchmark and ablation claims,done
+E13,SASRec,Google Local South Carolina,sequential phase 2,Keep as optional heavier sequential extension after the lightweight baseline is already closed,planned
+E14,GRU4Rec,Goodreads Fantasy 10K,sequential phase 2,Keep as alternative sequential branch if deeper experiments become necessary,planned
+E15,NCF,MovieLens 20M,reference deep,Retain only as secondary deep reference instead of main contribution,planned
+E16,RBM,MovieLens 20M,legacy,Keep for historical continuity with the old notebook but do not let it drive the roadmap,draft

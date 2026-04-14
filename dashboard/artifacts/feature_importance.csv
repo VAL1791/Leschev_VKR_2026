@@ -1,0 +1,109 @@
+dataset,algorithm,feature,importance
+Goodreads Fantasy 10K,HybridFeatureRerank,category_match,0.04
+Goodreads Fantasy 10K,HybridFeatureRerank,content,0.28
+Goodreads Fantasy 10K,HybridFeatureRerank,ease,0.18
+Goodreads Fantasy 10K,HybridFeatureRerank,freshness,0.04
+Goodreads Fantasy 10K,HybridFeatureRerank,novelty,0.06
+Goodreads Fantasy 10K,HybridFeatureRerank,popularity,0.03
+Goodreads Fantasy 10K,HybridFeatureRerank,price_match,0.01
+Goodreads Fantasy 10K,HybridFeatureRerank,quality,0.04
+Goodreads Fantasy 10K,HybridFeatureRerank,richness_alignment,0.06
+Goodreads Fantasy 10K,HybridFeatureRerank,svd,0.14
+Goodreads Fantasy 10K,HybridFeatureRerank,tag_overlap,0.1
+Goodreads Fantasy 10K,HybridFeatureRerank,year_alignment,0.02
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,category_match,0.05882352941176469
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,content,0.41176470588235287
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,ease,0.0
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,freshness,0.05882352941176469
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,novelty,0.08823529411764704
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,popularity,0.04411764705882352
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,price_match,0.014705882352941173
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,quality,0.05882352941176469
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,richness_alignment,0.08823529411764704
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,svd,0.0
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,tag_overlap,0.14705882352941174
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,year_alignment,0.029411764705882346
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,category_match,0.0
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,content,0.0
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,ease,0.3673469387755102
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,freshness,0.0816326530612245
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,novelty,0.12244897959183675
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,popularity,0.06122448979591837
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,price_match,0.0
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,quality,0.0816326530612245
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,richness_alignment,0.0
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,svd,0.28571428571428575
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,tag_overlap,0.0
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,year_alignment,0.0
+Google Local South Carolina,HybridFeatureRerank,category_match,0.04
+Google Local South Carolina,HybridFeatureRerank,content,0.12
+Google Local South Carolina,HybridFeatureRerank,ease,0.34
+Google Local South Carolina,HybridFeatureRerank,freshness,0.05
+Google Local South Carolina,HybridFeatureRerank,novelty,0.04
+Google Local South Carolina,HybridFeatureRerank,popularity,0.03
+Google Local South Carolina,HybridFeatureRerank,price_match,0.02
+Google Local South Carolina,HybridFeatureRerank,quality,0.05
+Google Local South Carolina,HybridFeatureRerank,richness_alignment,0.03
+Google Local South Carolina,HybridFeatureRerank,svd,0.2
+Google Local South Carolina,HybridFeatureRerank,tag_overlap,0.05
+Google Local South Carolina,HybridFeatureRerank,year_alignment,0.03
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,category_match,0.08695652173913045
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,content,0.2608695652173913
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,ease,0.0
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,freshness,0.10869565217391305
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,novelty,0.08695652173913045
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,popularity,0.06521739130434782
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,price_match,0.04347826086956522
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,quality,0.10869565217391305
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,richness_alignment,0.06521739130434782
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,svd,0.0
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,tag_overlap,0.10869565217391305
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,year_alignment,0.06521739130434782
+Google Local South Carolina,Hybrid_NoContentAblation,category_match,0.0
+Google Local South Carolina,Hybrid_NoContentAblation,content,0.0
+Google Local South Carolina,Hybrid_NoContentAblation,ease,0.47887323943661964
+Google Local South Carolina,Hybrid_NoContentAblation,freshness,0.0704225352112676
+Google Local South Carolina,Hybrid_NoContentAblation,novelty,0.05633802816901407
+Google Local South Carolina,Hybrid_NoContentAblation,popularity,0.04225352112676055
+Google Local South Carolina,Hybrid_NoContentAblation,price_match,0.0
+Google Local South Carolina,Hybrid_NoContentAblation,quality,0.0704225352112676
+Google Local South Carolina,Hybrid_NoContentAblation,richness_alignment,0.0
+Google Local South Carolina,Hybrid_NoContentAblation,svd,0.2816901408450704
+Google Local South Carolina,Hybrid_NoContentAblation,tag_overlap,0.0
+Google Local South Carolina,Hybrid_NoContentAblation,year_alignment,0.0
+MovieLens 20M,HybridFeatureRerank,category_match,0.04
+MovieLens 20M,HybridFeatureRerank,content,0.12
+MovieLens 20M,HybridFeatureRerank,ease,0.34
+MovieLens 20M,HybridFeatureRerank,freshness,0.05
+MovieLens 20M,HybridFeatureRerank,novelty,0.04
+MovieLens 20M,HybridFeatureRerank,popularity,0.03
+MovieLens 20M,HybridFeatureRerank,price_match,0.02
+MovieLens 20M,HybridFeatureRerank,quality,0.05
+MovieLens 20M,HybridFeatureRerank,richness_alignment,0.03
+MovieLens 20M,HybridFeatureRerank,svd,0.2
+MovieLens 20M,HybridFeatureRerank,tag_overlap,0.05
+MovieLens 20M,HybridFeatureRerank,year_alignment,0.03
+MovieLens 20M,Hybrid_NoCollaborativeAblation,category_match,0.08695652173913045
+MovieLens 20M,Hybrid_NoCollaborativeAblation,content,0.2608695652173913
+MovieLens 20M,Hybrid_NoCollaborativeAblation,ease,0.0
+MovieLens 20M,Hybrid_NoCollaborativeAblation,freshness,0.10869565217391305
+MovieLens 20M,Hybrid_NoCollaborativeAblation,novelty,0.08695652173913045
+MovieLens 20M,Hybrid_NoCollaborativeAblation,popularity,0.06521739130434782
+MovieLens 20M,Hybrid_NoCollaborativeAblation,price_match,0.04347826086956522
+MovieLens 20M,Hybrid_NoCollaborativeAblation,quality,0.10869565217391305
+MovieLens 20M,Hybrid_NoCollaborativeAblation,richness_alignment,0.06521739130434782
+MovieLens 20M,Hybrid_NoCollaborativeAblation,svd,0.0
+MovieLens 20M,Hybrid_NoCollaborativeAblation,tag_overlap,0.10869565217391305
+MovieLens 20M,Hybrid_NoCollaborativeAblation,year_alignment,0.06521739130434782
+MovieLens 20M,Hybrid_NoContentAblation,category_match,0.0
+MovieLens 20M,Hybrid_NoContentAblation,content,0.0
+MovieLens 20M,Hybrid_NoContentAblation,ease,0.47887323943661964
+MovieLens 20M,Hybrid_NoContentAblation,freshness,0.0704225352112676
+MovieLens 20M,Hybrid_NoContentAblation,novelty,0.05633802816901407
+MovieLens 20M,Hybrid_NoContentAblation,popularity,0.04225352112676055
+MovieLens 20M,Hybrid_NoContentAblation,price_match,0.0
+MovieLens 20M,Hybrid_NoContentAblation,quality,0.0704225352112676
+MovieLens 20M,Hybrid_NoContentAblation,richness_alignment,0.0
+MovieLens 20M,Hybrid_NoContentAblation,svd,0.2816901408450704
+MovieLens 20M,Hybrid_NoContentAblation,tag_overlap,0.0
+MovieLens 20M,Hybrid_NoContentAblation,year_alignment,0.0

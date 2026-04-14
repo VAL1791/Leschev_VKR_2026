@@ -1,0 +1,49 @@
+dataset,algorithm,slice_name,topk,mode,ndcg,recall
+MovieLens 20M,EASE,Cold users,10,exc,0.1664,0.0472
+MovieLens 20M,EASE,Frequent users,10,exc,0.2521,0.0281
+MovieLens 20M,HybridFeatureRerank,Cold users,10,exc,0.1695,0.0491
+MovieLens 20M,HybridFeatureRerank,Frequent users,10,exc,0.2405,0.0271
+MovieLens 20M,Hybrid_NoCollaborativeAblation,Cold users,10,exc,0.0417,0.012
+MovieLens 20M,Hybrid_NoCollaborativeAblation,Frequent users,10,exc,0.0784,0.0091
+MovieLens 20M,Hybrid_NoContentAblation,Cold users,10,exc,0.1686,0.0485
+MovieLens 20M,Hybrid_NoContentAblation,Frequent users,10,exc,0.2449,0.0274
+MovieLens 20M,Popularity,Cold users,10,exc,0.1038,0.0297
+MovieLens 20M,Popularity,Frequent users,10,exc,0.1873,0.0212
+MovieLens 20M,SequentialTransition,Cold users,10,exc,0.1207,0.0349
+MovieLens 20M,SequentialTransition,Frequent users,10,exc,0.1984,0.023
+MovieLens 20M,TFIDF_Content,Cold users,10,exc,0.0346,0.0103
+MovieLens 20M,TFIDF_Content,Frequent users,10,exc,0.0655,0.0074
+MovieLens 20M,TruncatedSVD,Cold users,10,exc,0.157,0.0459
+MovieLens 20M,TruncatedSVD,Frequent users,10,exc,0.2192,0.025
+Google Local South Carolina,EASE,Cold users,10,exc,0.1058,0.1016
+Google Local South Carolina,EASE,Frequent users,10,exc,0.1333,0.0769
+Google Local South Carolina,HybridFeatureRerank,Cold users,10,exc,0.1116,0.1071
+Google Local South Carolina,HybridFeatureRerank,Frequent users,10,exc,0.1405,0.0812
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,Cold users,10,exc,0.0065,0.0074
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,Frequent users,10,exc,0.0128,0.0076
+Google Local South Carolina,Hybrid_NoContentAblation,Cold users,10,exc,0.1093,0.1044
+Google Local South Carolina,Hybrid_NoContentAblation,Frequent users,10,exc,0.1399,0.0812
+Google Local South Carolina,Popularity,Cold users,10,exc,0.0188,0.0177
+Google Local South Carolina,Popularity,Frequent users,10,exc,0.024,0.0132
+Google Local South Carolina,SequentialTransition,Cold users,10,exc,0.0567,0.0546
+Google Local South Carolina,SequentialTransition,Frequent users,10,exc,0.0694,0.0371
+Google Local South Carolina,TFIDF_Content,Cold users,10,exc,0.0061,0.006
+Google Local South Carolina,TFIDF_Content,Frequent users,10,exc,0.0106,0.0069
+Google Local South Carolina,TruncatedSVD,Cold users,10,exc,0.1011,0.1006
+Google Local South Carolina,TruncatedSVD,Frequent users,10,exc,0.1326,0.076
+Goodreads Fantasy 10K,EASE,Cold users,10,exc,0.1479,0.2738
+Goodreads Fantasy 10K,EASE,Frequent users,10,exc,0.1159,0.1544
+Goodreads Fantasy 10K,HybridFeatureRerank,Cold users,10,exc,0.2125,0.3452
+Goodreads Fantasy 10K,HybridFeatureRerank,Frequent users,10,exc,0.1404,0.1952
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,Cold users,10,exc,0.2161,0.3095
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,Frequent users,10,exc,0.1267,0.1516
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,Cold users,10,exc,0.1246,0.2262
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,Frequent users,10,exc,0.0998,0.1351
+Goodreads Fantasy 10K,Popularity,Cold users,10,exc,0.1185,0.1667
+Goodreads Fantasy 10K,Popularity,Frequent users,10,exc,0.0727,0.0963
+Goodreads Fantasy 10K,SequentialTransition,Cold users,10,exc,0.1041,0.1905
+Goodreads Fantasy 10K,SequentialTransition,Frequent users,10,exc,0.14,0.1578
+Goodreads Fantasy 10K,TFIDF_Content,Cold users,10,exc,0.2038,0.3095
+Goodreads Fantasy 10K,TFIDF_Content,Frequent users,10,exc,0.1183,0.1389
+Goodreads Fantasy 10K,TruncatedSVD,Cold users,10,exc,0.1061,0.1905
+Goodreads Fantasy 10K,TruncatedSVD,Frequent users,10,exc,0.0387,0.0612

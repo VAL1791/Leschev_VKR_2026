@@ -1,0 +1,4 @@
+dataset,users,items,events,sparsity_pct,mean_events_per_user,mean_events_per_item,time_start,time_end
+MovieLens 20M,5000,3200,546342,96.59,109.27,170.73,1996-02,2015-03
+Google Local South Carolina,4980,3200,131085,99.18,26.32,40.96,2010-05,2021-06
+Goodreads Fantasy 10K,99,281,1291,95.36,13.04,4.59,2008-03,2017-10

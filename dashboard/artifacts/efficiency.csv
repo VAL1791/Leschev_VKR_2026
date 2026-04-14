@@ -1,0 +1,25 @@
+dataset,algorithm,train_seconds,inference_ms_per_user,memory_mb
+MovieLens 20M,Popularity,0.003,0.174,3.11
+MovieLens 20M,TruncatedSVD,0.517,0.218,3.11
+MovieLens 20M,EASE,5.8,9.281,3.11
+MovieLens 20M,TFIDF_Content,0.261,1.339,3.11
+MovieLens 20M,SequentialTransition,5.319,0.302,3.11
+MovieLens 20M,HybridFeatureRerank,0.0,55.624,3.11
+MovieLens 20M,Hybrid_NoContentAblation,0.0,53.562,3.11
+MovieLens 20M,Hybrid_NoCollaborativeAblation,0.0,55.275,3.11
+Google Local South Carolina,Popularity,0.001,0.167,0.74
+Google Local South Carolina,TruncatedSVD,0.31,0.218,0.74
+Google Local South Carolina,EASE,4.377,10.716,0.74
+Google Local South Carolina,TFIDF_Content,0.365,5.346,0.74
+Google Local South Carolina,SequentialTransition,3.166,0.27,0.74
+Google Local South Carolina,HybridFeatureRerank,0.0,63.124,0.74
+Google Local South Carolina,Hybrid_NoContentAblation,0.0,62.655,0.74
+Google Local South Carolina,Hybrid_NoCollaborativeAblation,0.0,53.908,0.74
+Goodreads Fantasy 10K,Popularity,0.001,0.122,0.01
+Goodreads Fantasy 10K,TruncatedSVD,0.037,0.136,0.01
+Goodreads Fantasy 10K,EASE,0.35,0.261,0.01
+Goodreads Fantasy 10K,TFIDF_Content,0.457,2.026,0.01
+Goodreads Fantasy 10K,SequentialTransition,0.044,0.149,0.01
+Goodreads Fantasy 10K,HybridFeatureRerank,0.0,31.675,0.01
+Goodreads Fantasy 10K,Hybrid_NoContentAblation,0.0,37.235,0.01
+Goodreads Fantasy 10K,Hybrid_NoCollaborativeAblation,0.0,43.232,0.01

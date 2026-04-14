@@ -1,0 +1,8 @@
+dataset,rating,count
+MovieLens 20M,4.0,301565
+MovieLens 20M,4.5,85841
+MovieLens 20M,5.0,158936
+Google Local South Carolina,4.0,38896
+Google Local South Carolina,5.0,92189
+Goodreads Fantasy 10K,4.0,598
+Goodreads Fantasy 10K,5.0,693

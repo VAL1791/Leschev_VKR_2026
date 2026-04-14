@@ -1,0 +1,13 @@
+algorithm,family,pattern,dataset_scope,milestone,why_in_scope,status
+Popularity,Baseline,global popularity prior,MovieLens 20M | Google Local South Carolina | Goodreads Fantasy 10K,phase_1,Нужен как нижняя граница и sanity check,ready
+TruncatedSVD,Collaborative Filtering,latent factor model,MovieLens 20M | Google Local South Carolina | Goodreads Fantasy 10K,phase_1,Компактный и воспроизводимый latent baseline без тяжелого стека,ready
+EASE,Linear CF,closed-form linear recommender,MovieLens 20M | Google Local South Carolina | Goodreads Fantasy 10K,phase_1,Очень сильный и объяснимый shallow baseline на implicit feedback,ready
+TFIDF_Content,Content-Based,metadata and text retrieval,MovieLens 20M | Google Local South Carolina | Goodreads Fantasy 10K,phase_1,Показывает ценность feature engineering и контентных сигналов в разных доменах,ready
+SequentialTransition,Sequential,order-aware transition model,MovieLens 20M | Google Local South Carolina | Goodreads Fantasy 10K,phase_1,Честный lightweight sequential baseline без тяжелого deep-стека,ready
+HybridFeatureRerank,Hybrid / rerank,feature-engineered candidate reranking,MovieLens 20M | Google Local South Carolina | Goodreads Fantasy 10K,phase_1,"Объединяет collaborative scores, content similarity, recency, popularity и tag overlap",ready
+Hybrid_NoContentAblation,Hybrid / ablation,rerank without content and profile alignment features,MovieLens 20M | Google Local South Carolina | Goodreads Fantasy 10K,phase_1,Нужен чтобы формально показать вклад content и profile features в hybrid-слое,ready
+Hybrid_NoCollaborativeAblation,Hybrid / ablation,rerank without collaborative signals,MovieLens 20M | Google Local South Carolina | Goodreads Fantasy 10K,phase_1,Нужен чтобы показать что hybrid не держится только на metadata без collaborative candidate generators,ready
+NCF,Deep,neural collaborative filtering,MovieLens 20M | Goodreads Fantasy 10K,phase_2,Вторичный deep reference а не главный вклад работы,planned
+SASRec,Sequential,transformer-based sequential model,MovieLens 20M | Google Local South Carolina | Goodreads Fantasy 10K,phase_2,Главный кандидат на один selective sequential experiment в phase 2,planned
+GRU4Rec,Sequential,RNN session-based recommender,Google Local South Carolina | Goodreads Fantasy 10K,phase_2,Альтернативный sequential baseline если SASRec окажется слишком дорогим по времени интеграции,planned
+RBM,Legacy Deep,restricted boltzmann machine,MovieLens 20M,legacy,Исторический baseline из старой базы без статуса main-line модели,draft

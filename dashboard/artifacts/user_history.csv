@@ -1,0 +1,21 @@
+dataset,user_id,interaction_rank,item_id,item_name,interaction_type
+MovieLens 20M,88646,1,1964,Klute (1971),history
+MovieLens 20M,88646,2,5105,Don't Look Now (1973),history
+MovieLens 20M,88646,3,8207,"Day of the Jackal, The (1973)",history
+MovieLens 20M,88646,4,3551,Marathon Man (1976),history
+MovieLens 20M,88646,5,2917,Body Heat (1981),history
+MovieLens 20M,88646,6,1264,Diva (1981),history
+MovieLens 20M,88646,7,1674,Witness (1985),history
+MovieLens 20M,88646,8,3101,Fatal Attraction (1987),history
+Google Local South Carolina,106584019638494485312,1,0x88f801ac65d02379:0xf9e25519d7193493,Outback Steakhouse,history
+Google Local South Carolina,106584019638494485312,2,0x88f801a8fedfc28f:0x3643fde546bc338d,R Place Grill & Spirits,history
+Google Local South Carolina,106584019638494485312,3,0x88f800fc40b37c81:0x116e75832680e4d5,Cook Out,history
+Google Local South Carolina,106584019638494485312,4,0x88582ee525eb1c5f:0x4a2a6132903e4094,Haywood Mall,history
+Google Local South Carolina,106584019638494485312,5,0x88582f2e8cdf95a9:0x4cc37e6ff586860f,Panda Express,history
+Google Local South Carolina,106584019638494485312,6,0x88586933400f8091:0xc978c46ad71864f7,Sam's Club,history
+Google Local South Carolina,106584019638494485312,7,0x88586c1475500001:0xb24c664f46bf31c8,Freddy's Frozen Custard & Steakburgers,history
+Google Local South Carolina,106584019638494485312,8,0x88f8016616a262fb:0x8ccad0ea960cc44b,McDonald's,history
+Goodreads Fantasy 10K,3a16f3fcb7dedfef2ca21f868001019a,1,18007564,The Martian,history
+Goodreads Fantasy 10K,3a16f3fcb7dedfef2ca21f868001019a,2,2315892,Best Served Cold,history
+Goodreads Fantasy 10K,3a16f3fcb7dedfef2ca21f868001019a,3,3227063,"The Way of Shadows (Night Angel, #1)",history
+Goodreads Fantasy 10K,3a16f3fcb7dedfef2ca21f868001019a,4,3754016,"Shadow's Edge (Night Angel, #2)",history
