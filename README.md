@@ -4,7 +4,7 @@
 Он показывает не только ноутбуки и модели, но и **понятную структуру работы**: data audit, метрики, baselines,
 deep/sequential models, hybrid-срезы и Streamlit-dashboard для демонстрации результата.
 
-## Что здесь появилось поверх исходной базы
+## Что здесь появилось
 
 - `dashboard/` — multipage Streamlit-интерфейс под защиту и обсуждение с научруком
 - `docs/` — каркас работы, storyline, план показа результатов
@@ -30,7 +30,7 @@ python dashboard/generate_demo_artifacts.py
 streamlit run dashboard/app.py
 ```
 
-Если реальные таблицы уже выгружены из ноутбука, положи их в `dashboard/artifacts/`.
+Если реальные таблицы уже выгружены из ноутбука, положим их в `dashboard/artifacts/`.
 Если нет, приложение стартует на `sample_artifacts/` и все равно показывает каркас.
 
 ## Notebook-first workflow
